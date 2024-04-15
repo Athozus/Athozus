@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I mainly use [GitLab](https://gitlab.com/Athozus).
+I use [GitLab](https://gitlab.com/Athozus) for my personal projects.
+
+Some stats :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Athozus)](https://github.com/ryo-ma/github-profile-trophy)
 
